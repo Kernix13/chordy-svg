@@ -135,3 +135,6 @@ Run `npm run clean` to delete all built files and generated SVG images from `tes
 ## Notes
 
 Not fully tested for chords with open strings.
+
+### Testing
+Testing to see if I have to do anything other than `git push' for a repo I cloned.
